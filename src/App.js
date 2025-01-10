@@ -6,13 +6,13 @@ import NewExpense from "./components/NewExpense/NewExpense";
 const DYMMY_EXPENSES = [
   {
     id: Math.random().toString(),
-    date: new Date(2024, 10, 22),
+    date: new Date(2025, 10, 22),
     title: "New book",
     price: 39.99,
   },
   {
     id: Math.random().toString(),
-    date: new Date(2026, 10, 22),
+    date: new Date(2024, 10, 22),
     title: "New bag",
     price: 99.99,
   },
